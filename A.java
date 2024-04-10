@@ -37,6 +37,10 @@ public class A {
 
     // Método MA3
     public void MA3() {
-    System.out.println("Alteração a classe A partir do clone");
+        System.out.println("Alteração a classe A partir do clone");
+    }
+
+    public Integer GetSoma(Integer A, Integer B) {
+        return A + B;
     }
 }
