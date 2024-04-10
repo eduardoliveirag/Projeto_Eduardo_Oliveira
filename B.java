@@ -34,4 +34,10 @@ public class B {
     public void MB2() {
         System.out.println("Executando o método MB2");
     }
+    
+    // Método MB3
+    public void MB3() {
+    System.out.println("Executando o método MB3");
+    }
+
 }

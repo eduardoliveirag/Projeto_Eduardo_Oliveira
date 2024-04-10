@@ -34,5 +34,11 @@ public class C {
     public void MC2() {
         System.out.println("Executando o método MC2");
     }
+
+    // Método MC3
+    public void MC3() {
+    System.out.println("Executando o método MC3");
+    }
+
 }
 
